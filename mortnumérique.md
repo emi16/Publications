@@ -35,3 +35,12 @@ Certains comptes en ligne contiennent des données très sensibles comme des don
 
 Il est également important de prendre en compte la vie privée des personnes avec qui un défunt aura communiqué sur Internet. Les comptes d’un individu décédé possèdent des informations privées sur les membres de sa famille ou ses amis.
 
+#Les parties suivantes
+
+##Les procédures mises en place par les services en ligne pour anticiper son testament numérique
+###La problématique des politiques de confidentialité des sites en ligne et le besoin des proches d'accéder aux données 
+##La question du droit d'auteur : que peut-on léguer ?
+###Les arguments que peuvent utiliser les proches pour obtenir un contenu
+## La question de la protection des données des comptes d'un défunt
+##Conseils pour bien organiser son testamenet numérique : le lien avec le dossier sauvegarde
+
