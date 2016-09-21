@@ -1,4 +1,5 @@
 MISP and the GDPR
+=============================================
 
 1 – Information sharing is an essential activity for all implied actors in personnal data protection as described within the GDPR	1
 1.a - Micro-level (data controllers)
@@ -15,8 +16,8 @@ The current legal and regulatory framework is often seen as a challenge for such
 
 The demonstration hereafter exposed is based for the most part on the General Data Protection Regulation, as described in the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 
-1 – Information sharing is an essential activity for all implied actors in personnal data protection as described within the GDPR
-1.a - Micro-level (data controllers):
+# Information sharing is an essential activity for all implied actors in personnal data protection as described within the GDPR
+## Micro-level (data controllers):
 The case of Data Controllers, as indicated in the GDPR introduction, Section (49),
 “The processing of personal data to the extent strictly necessary and proportionate for the purposes of ensuring network and information security, i.e. the ability of a network or an information system to resist, at a given level of confidence, accidental events or unlawful or malicious actions that compromise the availability, authenticity, integrity and confidentiality of stored or transmitted personal data, and the security of the related services offered by, or accessible via, those networks and systems, by public authorities, by computer emergency response teams (CERTs), computer security incident response teams (CSIRTs), by providers of electronic communications networks and services and by providers of security technologies and services, constitutes a legitimate interest of the data controller concerned. This could, for example, include preventing unauthorised access to electronic communications networks and malicious code distribution and stopping ‘denial of service’ attacks and damage to computer and electronic communication systems.”
 
@@ -38,7 +39,7 @@ Article 39 Tasks of the data protection officer
 (…)
 (b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
 
-1.b – Macro-level (regulators and supervisory authorities)
+## Macro-level (regulators and supervisory authorities)
 MISP helps all implied regulators in monitoring the level of protection for personnal data in third countries, as stated in section 106 (introduction to GDPR):
 “The Commission should monitor the functioning of decisions on the level of protection in a third country, a territory or specified sector within a third country, or an international organisation, and monitor the functioning of decisions adopted on the basis of Article 25(6) or Article 26(4) of Directive 95/46/EC. In its adequacy decisions, the Commission should provide for a periodic review mechanism of their functioning. That periodic review should be conducted in consultation with the third country or international organisation in question and take into account all relevant developments in the third country or international organisation. For the purposes of monitoring and of carrying out the periodic reviews, the Commission should take into consideration the views and findings of the European Parliament and of the Council as well as of other relevant bodies and sources. The Commission should evaluate, within a reasonable time, the functioning of the latter decisions and report any relevant findings to the Committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 1 ) as established under this Regulation, to the European Parliament and to the Council.”
 Such review needs information sharing on existing technical threats to security.
@@ -54,7 +55,8 @@ AND
 AND
 
 (section 133) The supervisory authorities should assist each other in performing their tasks and provide mutual assistance, so as to ensure the consistent application and enforcement of this Regulation in the internal market. A supervisory authority requesting mutual assistance may adopt a provisional measure if it receives no response to a request for mutual assistance within one month of the receipt of that request by the other supervisory authority.
-2 - MISP as an essential asset for threats on information systems Metrology
+
+# MISP as an essential asset for threats on information systems Metrology
 
 (section 107) The Commission may recognise that a third country, a territory or a specified sector within a third country, or an international organisation no longer ensures an adequate level of data protection. Consequently the transfer of personal data to that third country or international organisation should be prohibited, unless the requirements in this Regulation relating to transfers subject to appropriate safeguards, including binding corporate rules, and derogations for specific situations are fulfilled. In that case, provision should be made for consultations between the Commission and such third countries or international organisations. The Commission should, in a timely manner, inform the third country or international organisation of the reasons and enter into consultations with it in order to remedy the situation.
 
@@ -76,7 +78,8 @@ Article 45 Transfers on the basis of an adequacy decision
 
 2. When assessing the adequacy of the level of protection, the Commission shall, in particular, take account of the following elements:
 (a) (…) the implementation of(…) professional rules and security measures, including rules for the onward transfer of personal data to another third country or international organisation which are complied with in that country or international organisation (…)
-3 – Information sharing as done in MISP is not challenged by the GDPR
+
+# Information sharing as done in MISP is not challenged by the GDPR
 
 Article 2 - Material scope
 2. This Regulation does not apply to the processing of personal data:
@@ -103,7 +106,8 @@ Section 2 Security of personal dat a Article 32 Security of processing
 1. Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:
 (…)=
 (d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
-4 – Information sharing as a source of safe code of conduct
+
+# Information sharing as a source of safe code of conduct
 
 Section 5 Codes of conduct and certification Article 40 Codes of conduct
 1. The Member States, the supervisory authorities, the Board and the Commission shall encourage the drawing up of codes of conduct intended to contribute to the proper application of this Regulation, taking account of the specific features of the various processing sectors and the specific needs of micro, small and medium-sized enterprises. 
